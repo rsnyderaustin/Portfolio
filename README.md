@@ -9,7 +9,7 @@ My resume is available in the project files listed above.
 
 | Project Link | Tools | Description |
 |-|-|-|
-| [Coordinate Proximities Analysis](https://github.com/rsnyderaustin/Coordinate-Proximities-Analysis)https://github.com/rsnyderaustin/Coordinate-Proximities-Analysis | Python, Pandas Library, Rtree Library | Developed a Python program to spatially analyze two related sets of coordinates around each other. Program uses the [Rtree library](https://rtree.readthedocs.io/en/latest/)https://rtree.readthedocs.io/en/latest/ for spatial indexing. |
+| [Coordinate Proximities Analysis](https://github.com/rsnyderaustin/Coordinate-Proximities-Analysis) | Python, Pandas Library, Rtree Library | Developed a Python program to spatially analyze two related sets of coordinates around each other. Program uses the [Rtree library](https://rtree.readthedocs.io/en/latest/) for spatial indexing. |
 
 ## SQL
 | Project Link | Tools | Description |
